@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="declare love:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/declare_love_jar</output-path>
+    <root id="root">
+      <element id="archive" name="declare love.jar">
+        <element id="module-output" name="declare love" />
+      </element>
+    </root>
+  </artifact>
+</component>
